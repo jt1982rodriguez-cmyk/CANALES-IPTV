@@ -2,23 +2,24 @@
   "canales": [
     {
       "numero": 1,
-      "nombre": "Test Stream",
-      "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8"
-    },
-    {
-      "numero": 2,
       "nombre": "Caracol",
       "url": "http://38.196.178.253:9999/otrolado/caracol/playlist.m3u8"
     },
     {
+      "numero": 2,
+      "nombre": "retro Cucuta",
+      "url": "https://mist01.homestream.fun/hls/ntvlive/0_1/index.m3u8"
+    },
+    {
       "numero": 3,
-      "nombre": "DW Español",
-      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+      "nombre": "´Gloval",
+      "url": "https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8"
     },
     {
       "numero": 4,
-      "nombre": "ARTE Live",
-      "url": "https://artesimulcast.akamaized.net/hls/live/2030993/artelive_fr/index.m3u8"
+      "nombre": "DW Español",
+      "url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
     }
   ]
 }
+
