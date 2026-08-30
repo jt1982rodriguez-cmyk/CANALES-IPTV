@@ -278,19 +278,19 @@
     },
 {
       "numero": 56,
-      "nombre": "TVS",
+      "nombre": "RCN",
       "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8"
 
     },
 {
       "numero": 57,
-      "nombre": "TVS",
+      "nombre": "RCN",
       "url": "http://181.78.14.26:4000/play/a07m/index.m3u8"
 
     },
 {
       "numero": 58,
-      "nombre": "TVS",
+      "nombre": "RCN ",
       "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
 
     },
