@@ -274,9 +274,28 @@
       "numero": 55,
       "nombre": "TVS",
       "url": "https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8"
+
+    },
+{
+      "numero": 56,
+      "nombre": "TVS",
+      "url": "https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8"
+
+    },
+{
+      "numero": 57,
+      "nombre": "TVS",
+      "url": "http://181.78.14.26:4000/play/a07m/index.m3u8"
+
+    },
+{
+      "numero": 58,
+      "nombre": "TVS",
+      "url": "https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8"
+
     },
     {
-      "numero": 56,
+      "numero": 59,
       "nombre": "Venevisión Internacional",
       "url": "https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8"
     }
